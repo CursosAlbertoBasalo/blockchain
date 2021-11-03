@@ -1,20 +1,20 @@
 {
-  "name": "quark",
-  "version": "1.6.3",
-  "description": "Fundamental project template",
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "A simple blockchain implementation",
   "author": {
     "name": "Alberto Basalo",
     "email": "albertobasalo@hotmail.com",
     "url": "https://twitter.com/albertobasalo"
   },
-  "homepage": "https://github.com/AtomicBuilders/quark#readme",
+  "homepage": "https://github.com/LabsAdemy/blockchain#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AtomicBuilders/quark.git"
+    "url": "git+https://github.com/LabsAdemy/blockchain.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AtomicBuilders/quark/issues"
+    "url": "https://github.com/LabsAdemy/blockchain/issues"
   },
   "scripts": {
     "start": "node ./dist/main.js",

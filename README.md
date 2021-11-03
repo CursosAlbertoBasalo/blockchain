@@ -1,22 +1,18 @@
-# quark
+# blockchain
 
-Fundamental **TypeScript** project template
+A simple blockchain implementation used as demo and lab in clean code and testing courses
 
 > Clone, fork or use as a template repository for creating your next **TypeScript** project.
 
 ```terminal
-git clone https://github.com/AtomicBuilders/quark/ your-project
-cd your-project
+git clone https://github.com/LabsAdemy/blockchain.git
+cd blockchain
 npm install
 ```
 
 ## 🎯 Motivation
 
-Avoid start from an empty repository.
 
-Have a template to create _TypeScript_ repositories with a project already configured.
-
-A **boilerplate** ready to apply clean code techniques and testing.
 
 ## ⚙ Workflows
 
@@ -122,12 +118,7 @@ Recommendations
 - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 - [Prettier](https://github.com/prettier/prettier-vscode)
-- [Spell Right](https://marketplace.visualstudio.com/items?itemName=ban.spellright)
-- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
 ### 👽 Extra
 
@@ -155,4 +146,3 @@ TOP 10
 
 [@albertobasalo](https://twitter.com/albertobasalo)
 
-### There is a [JavaScript version](https://github.com/AtomicBuilders/lepton) of this project
