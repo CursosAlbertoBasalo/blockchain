@@ -1,6 +1,6 @@
 {
   "name": "blockchain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple blockchain implementation",
   "author": {
     "name": "Alberto Basalo",
